@@ -87,19 +87,19 @@ informações relacionadas à doação, como:
 A extração de informações será realizada utilizando técnicas de
 Processamento de Linguagem Natural e Regex.
 
-## 5. Identidade visual
+## 5. Identidade Visual
 
-O logotipo do MESAFARTAI deverá unir conceitos relacionados a
-alimento, acolhimento, tecnologia e Inteligência Artificial
-assistiva.
+O logotipo do MESAFARTAI foi criado utilizando Inteligência Artificial.
+A proposta visual combina conceitos de alimento e acolhimento com
+tecnologia e Inteligência Artificial assistiva.
 
-### Prompt utilizado para geração do logotipo
+### 6. Prompt utilizado
 
-[COLE AQUI O PROMPT EXATO UTILIZADO NO GERADOR DE IMAGEM]
-
-## 6. Objetivo
-
-O objetivo do MESAFARTAI é utilizar tecnologia, Inteligência
-Artificial e logística para facilitar a conexão entre doadores
-de alimentos e ONGs, contribuindo para a redução do desperdício
-de alimentos e para o combate à fome.
+Crie um logotipo moderno e profissional para o sistema MESAFARTAI,
+uma plataforma de logística e inteligência assistiva no combate à fome.
+O logo deve combinar elementos que representem alimentos, acolhimento,
+solidariedade e tecnologia/Inteligência Artificial. Crie um símbolo
+simples, moderno e memorável, transmitindo esperança, conexão,
+inovação e impacto social. Estilo minimalista e tecnológico, adequado
+para uma aplicação web e projeto acadêmico. Fundo limpo e composição
+profissional.
