@@ -1,1 +1,56 @@
+REGRAS DA ETAPA 1 - PROJETO MESAFARTAI
 
+A etapa 1 do projeto MESAFARTAI consiste na criação das fundações
+de engenharia, banco de dados e documentação do produto.
+
+As atividades solicitadas são:
+
+1. Criar um grupo de 3 a 5 alunos.
+
+2. Criar um repositório público no GitHub com o nome exato:
+PROJETO-MESAFARTAI
+
+3. Adicionar todos os integrantes do grupo e o professor como
+colaboradores do repositório.
+
+4. Criar o arquivo README.md na raiz do projeto contendo:
+- Título oficial do projeto;
+- Descrição resumida da solução;
+- Alinhamento com a ODS 2 da ONU;
+- Nome completo e RA dos integrantes.
+
+5. Criar a pasta /docs contendo:
+- regras.txt;
+- escopo_projeto.md.
+
+6. Criar o arquivo escopo_projeto.md contendo:
+- Problema de negócio;
+- Público-alvo;
+- Intenções tratadas;
+- Dados coletados pelo chat;
+- Prompt utilizado para criação do logotipo.
+
+7. Criar a identidade visual do projeto utilizando um gerador
+de imagens por Inteligência Artificial.
+
+8. Salvar o logotipo em:
+assets/logo_mesafartai.png
+
+9. Criar o script src/database.py para inicialização do banco
+de dados SQLite3.
+
+10. O banco de dados deverá ser chamado:
+mesafartai.db
+
+11. O banco deverá possuir as tabelas:
+- usuarios;
+- doacoes;
+- matches.
+
+12. O banco deverá ser populado com dados de teste.
+
+13. Executar o arquivo database.py sem erros e verificar a
+criação do banco mesafartai.db.
+
+14. Enviar o e-mail para o professor dentro do horário da aula,
+contendo a lista dos integrantes e o link do repositório GitHub.
