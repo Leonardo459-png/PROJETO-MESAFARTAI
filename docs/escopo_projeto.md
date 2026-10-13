@@ -1,3 +1,4 @@
+
 ESCOPO GERAL DO PROJETO & REQUISITOS TÉCNICOS
 
 O ecossistema do MESAFARTAI é composto por 4 grandes pilares tecnológicos desenvolvidos 100% em Python:
@@ -19,3 +20,8 @@ o	Banco de dados SQLite3 para persistência de doadores, receptores, doações e
 
 Script de Banco de Dados (src/database.py)
 Criar o script Python responsável por inicializar o banco de dados relacional SQLite3 (mesafartai.db) com as tabelas fundamentais e popular com dados de teste.
+
+
+Prompt Utilizado:
+
+Gerar Ícone de logotipo 3D isométrico moderno para um sistema inteligente de doação de alimentos chamado 'MESAFARTAI- MESAFARTAI – Logística e Inteligência Assistiva no Combate à Fome'. O ícone apresenta uma caixa de entregas ou prato estilizado integrado a nós de rede digital e um símbolo de pino de localização, representando logística inteligente e conexão por IA. Cores vibrantes: verde esmeralda, laranja quente e azul ciano. Renderização 3D limpa, textura fosca suave, sombras suaves, isolado em um fundo branco sólido.
