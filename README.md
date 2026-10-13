@@ -1,18 +1,12 @@
 # PROJETO-MESAFARTAI – Logística e Inteligência Assistiva no Combate à Fome
 
-## Sobre o projeto
+MANIFESTO & A CAUSA NOBRE DO PROJETO
+"A tecnologia só alcança seu propósito mais elevado quando é utilizada para resolver dores humanas reais e salvar vidas."
+Diariamente, toneladas de alimentos próprios para consumo são descartadas por feirantes, supermercados, restaurantes e produtores devido à proximidade da data de validade, pequenos defeitos estéticos ou excesso de estoque. Ao mesmo tempo, centenas de ONGs, abrigos e cozinhas comunitárias lutam diariamente contra a escassez de suprimentos para alimentar famílias em situação de vulnerabilidade.
+O grande gargalo dessa equação não é a falta de comida, mas a falta de logística ágil e comunicação eficiente. Um comerciante não tem tempo para preencher formulários extensos para doar 30 kg de alimento que vão vencer em 24 horas.
+O MESAFARTAI nasce para mudar essa realidade. Através da Inteligência Assistiva e Processamento de Linguagem Natural (NLU), vocês construirão uma aplicação conversacional em Python capaz de entender mensagens informais de doadores via chat, extrair automaticamente produtos, quantidades e validades via Regex, e realizar o matchmaking logístico usando algoritmos não supervisionados (KNN) para direcionar o alimento até a ONG mais próxima em tempo recorde.
+Este projeto está diretamente alinhado à ODS 2 da ONU (Fome Zero e Agricultura Sustentável). Mais do que uma avaliação acadêmica, este projeto será um case de impacto social e tecnologia do seu portfólio profissional.
 
-O MESAFARTAI é uma solução de logística e inteligência assistiva desenvolvida em Python para facilitar a doação e distribuição de alimentos para pessoas em situação de vulnerabilidade.
-
-A aplicação utiliza Inteligência Artificial, Processamento de Linguagem Natural (NLU), Regex e algoritmos de matchmaking para compreender mensagens de doadores, identificar informações sobre os alimentos e direcionar as doações para ONGs próximas.
-
-O projeto busca reduzir o desperdício de alimentos e melhorar a comunicação entre doadores e organizações que necessitam de alimentos.
-
-## ODS 2 – Fome Zero e Agricultura Sustentável
-
-O projeto está alinhado à ODS 2 da ONU, contribuindo para o combate à fome por meio da utilização da tecnologia para facilitar a distribuição de alimentos e conectar doadores a organizações que atendem pessoas em situação de vulnerabilidade.
-
-## Integrantes
 
 - Leonardo Machado Lopes — RA: 147425
 - Tiago Maia da Silva Oliveira — RA: 149389
