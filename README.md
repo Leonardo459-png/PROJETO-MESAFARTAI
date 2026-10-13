@@ -1,5 +1,6 @@
 # PROJETO-MESAFARTAI – Logística e Inteligência Assistiva no Combate à Fome
 
+
 MANIFESTO & A CAUSA NOBRE DO PROJETO
 "A tecnologia só alcança seu propósito mais elevado quando é utilizada para resolver dores humanas reais e salvar vidas."
 Diariamente, toneladas de alimentos próprios para consumo são descartadas por feirantes, supermercados, restaurantes e produtores devido à proximidade da data de validade, pequenos defeitos estéticos ou excesso de estoque. Ao mesmo tempo, centenas de ONGs, abrigos e cozinhas comunitárias lutam diariamente contra a escassez de suprimentos para alimentar famílias em situação de vulnerabilidade.
