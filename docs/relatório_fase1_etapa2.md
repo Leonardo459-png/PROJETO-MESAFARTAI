@@ -3,7 +3,7 @@
 3.	Coloque o resultado da primeira execução
 4.	Descreva como você poderia fazer para os resultados de testes serem melhores, aumento o grau de confiança dos resultados
 5.	Descreva por que o Random Forest foi o melhor método de Machine Learning para essa fase.
-
+-----------------------------------------------------------------------------------------------------------------------------------
 1. Foram utilizadas 80 árvores de decisão no algoritmo Random Forest, configuradas pelo parâmetro n_estimators=80.
 
 2. O valor utilizado foi 0,60 (60%). Quando a confiança da previsão é inferior a esse limite, o sistema retorna uma resposta de fallback.
